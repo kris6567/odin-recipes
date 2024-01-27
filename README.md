@@ -1,0 +1,1 @@
+I will create a basic recipe website for this project using what I learned in HTML. After I completed this project, I demonstrated my HTML skill.
